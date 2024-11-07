@@ -135,6 +135,7 @@ body {
     display: block;
     width: 23.33rem;
     /* 350px */
+    max-width: 90%;
   }
 }
 
