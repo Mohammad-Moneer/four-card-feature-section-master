@@ -47,7 +47,7 @@ body {
   /* Added padding to create vertical distance */
 }
 
-.main-heading {
+.intro {
   margin: 0 auto 5.33rem;
   /* 80px */
   text-align: center;
@@ -58,47 +58,42 @@ body {
 @media (max-width: 40rem) {
 
   /* 600px */
-  .main-heading {
+  .intro {
     width: 70%;
   }
 }
 
-.main-heading__title, .tool__title {
+.intro__heading, .tool__title {
   color: var(--very-dark-blue);
 }
 
-.main-heading__title {
+.intro__heading {
   font-size: 2.33rem;
   /* 35px */
-  font-weight: 600;
 }
 
 @media (max-width: 40rem) {
 
   /* 600px */
-  .main-heading__title {
+  .intro__heading {
     font-size: 1.6rem;
     /* 24px */
   }
 }
 
-.main-heading__title--sub {
-  display: block;
+.intro__heading--sub {
   font-weight: 200;
   margin-bottom: 0.67rem;
   /* 10px */
 }
 
-@media (max-width: 40rem) {
-
-  /* 600px */
-  .main-heading__title--sub {
-    font-size: 1.6rem;
-    /* 24px */
-  }
+.intro__heading--main {
+  font-weight: 600;
+  font-size: inherit;
+  margin-top: 0;
 }
 
-.main-heading__description {
+.intro__description {
   line-height: 1.6;
 }
 
