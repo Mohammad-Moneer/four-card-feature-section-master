@@ -82,6 +82,7 @@ body {
 }
 
 .intro__heading--sub {
+  display: block;
   font-weight: 200;
   margin-bottom: 0.67rem;
   /* 10px */
