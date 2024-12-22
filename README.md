@@ -19,8 +19,9 @@ To get some details and background of this project visit the link below:
 
 ### Screenshot
 
+Desktop version
 ![Desktop Screenshot - Four card feature section](./screenshot_four-card-feature-section_desktop.png)
-&nbsp;
+Mobile version
 ![Mobile Screenshot - Four card feature section](./screenshot_four-card-feature-section_mobile.png)
 
 ### Links
